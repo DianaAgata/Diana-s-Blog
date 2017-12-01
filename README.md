@@ -3,6 +3,8 @@ Diana's Blog
 
 This is the first version of my blog.
 
-The second change(made on master).
+
+First change. 
+
 
 # Diana-s-Blog
